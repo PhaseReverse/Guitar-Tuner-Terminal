@@ -1,0 +1,8 @@
+REALTIME SOUND FREQUENCY IDENTIFIER IN TERMINAL
+CAN BE USED FOR TUNING GUITAR
+
+USAGE : 
+pip install sounddevice
+pip install numpy
+
+python main.py
