@@ -62,7 +62,7 @@ def note_status(freq):
     
     bar = plus * plus_length + minus * minus_length
 
-    print(' '*130,end = '\r')
+    print('\r',' '*130,end = '\r')
     print(left_note,bar,right_note,end='\r')
 
 
